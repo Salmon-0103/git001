@@ -1,4 +1,5 @@
 header {
-    height: 300px;
-    background: pink;
+    height: 1000px;
+    background-image: url(./images/header.jpg);
+    background-size: cover;
 }
